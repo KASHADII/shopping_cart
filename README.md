@@ -1,6 +1,6 @@
 # Simple E-Commerce Cart 🛒
 
-A minimalist, responsive shopping cart application built with pure HTML, CSS, and vanilla JavaScript. The UI design is highly inspired by the clean, modern aesthetics of [Cal.com](https://cal.com/), featuring high-contrast text, sleek borders, and an off-white background.
+A minimalist, responsive shopping cart application built with pure HTML, CSS, and vanilla JavaScript. 
 
 ## Features ✨
 
